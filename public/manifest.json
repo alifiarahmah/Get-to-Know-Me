@@ -1,0 +1,8 @@
+{
+  "short_name": "IEEE Open Recruitment Mini Project - Alifia Rahmah",
+  "name": "A React App for IEEE IT Division Open Recruitment by Alifia Rahmah",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
