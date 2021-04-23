@@ -1,5 +1,4 @@
-import React from 'react';
-import {Switch, Route, Redirect} from 'react-router-dom';
+import { Switch, Route, Redirect } from 'react-router-dom';
 import { Container, Row, Col } from 'react-bootstrap';
 
 import Home from './home.js';

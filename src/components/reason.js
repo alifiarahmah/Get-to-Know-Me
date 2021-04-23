@@ -26,8 +26,7 @@ function Reason(){
 				I could improve my skills, especially those that align with my field of interest. 
 			</p>
 			<p>
-				This will be a
-				long and rough journey, but I will do my best.
+				This will be a long and rough journey, but I will do my best.
 			</p>
 
 			<h2>Dream Team?</h2>

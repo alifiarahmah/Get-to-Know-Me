@@ -1,5 +1,4 @@
-import Card from 'react-bootstrap/Card';
-import CardColumns from 'react-bootstrap/CardColumns';
+import { Card, CardColumns } from 'react-bootstrap';
 
 function Projects(){
 	return(

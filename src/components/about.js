@@ -11,13 +11,13 @@ function About(){
 				I'm a curious and enthusiastic person, especially when it comes to my field of interest.
 				When it comes to my responsibility, I try to do my best. I also want to
 				protect my moral value in all of my activities, integrity.
-				However, when I got overwhelmed, I could be moody or childish.
+				However, when I got overwhelmed, I could be moody or childish. Some people also
+				said that I'm pretty naive and awkward in certain situations.
 			</p>
 			<p>
-				College life give me a big opportunity to learn and do mistakes
-				for learning purposes. This opportunity helps me to
-				grow myself to the fullest. However, Individualistic 
-				environment seems to make me feel pressured. and I'm still scared of being socially rejected
+				College life give me a big opportunity to learn and get hands-on experiences. This opportunity helps me to
+				grow myself to the fullest. However, when I'm in an individualistic 
+				environment, I often feel pressured, and I'm scared of being socially rejected.
 			</p>
 			
 			<p>In short, my SWOT could be seen below.</p>
@@ -75,7 +75,7 @@ function About(){
 			</Table>
 
 			<h2>Organizational experiences</h2>
-			
+
 				<h5>Kelompok Ilmiah Remaja (KIR) SMA Negeri 1 Bogor</h5>
 				<b>Head of Scientific Insights (2018-2019)</b>
 				<p>Responsible for social media content management and blog content of KIR SMA Negeri 1 Bogor with scientific infographics and articles. </p>
@@ -105,6 +105,15 @@ function About(){
 					</i><br/><b>- Ihsan Abdul Hakim</b>
 					</p>
 				</Col>
+			</Row>
+			<Row>
+				<Col lg={true}>
+					<p><i class="text-muted">
+						"Alifia always did her job very well. In group project, she submitted her part as soon as possible. 
+						She always made sure to communicate well with other members in the group."
+					</i><br/><b>- Syaharani S.</b></p>
+				</Col>
+				<Col></Col>
 			</Row>
 
 		</section>
